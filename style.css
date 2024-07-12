@@ -1,0 +1,102 @@
+input[type=text]
+{
+height:25px;
+width:190px;
+padding:30px 30px 0px 0px;
+border-radius:5px;
+}
+
+input[type=email]
+{
+height:25px;
+width:190px;
+padding:30px 30px 0px 0px;
+border-radius:5px;
+}
+
+
+input[type=password]
+{
+height:25px;
+width:190px;
+padding:30px 30px 0px 0px;
+border-radius:5px;
+}
+
+
+input[type=submit]
+{
+background-color:green;	
+}
+s
+.text-field
+{
+color:red;	
+	
+}
+
+form
+{
+height:400px;
+width:800px;
+background-color:gray;
+margin-top:30px;
+margin-left:370px;
+margin-right:330px;
+}
+
+header
+{
+background-color:#054896;
+height:200px;	
+}
+p
+{
+color:red;
+}
+
+h1
+{
+color:white;
+font-size:70px;
+}
+
+ul
+{
+list-style-type:none;
+}
+
+li
+{
+float:right;
+bottom:90%;
+left:80%;
+}
+
+li a
+{
+display:inline-block;
+color:white;
+background-color:orange;
+text-align:center;
+padding:15px 18px;
+text-decoration:none;	
+margin-bottom:130px;
+}	
+
+li a:hover
+{
+	background-color:red;
+}
+
+body
+{
+  font-family: IBM Plex Mono, monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+tr
+{
+margin-top:100px;
+}
